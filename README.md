@@ -19,7 +19,7 @@
 OK！下面开始本篇教程！总共分为两个步骤，全程5分钟！这里附上8K Youtube速度测试图和延时测试视频。测试条件：广州100M移动宽带，如果是电信/联通速度会更快，延时会更低！
 
 ☑ 8K Youtube速度测试图：
-<a href="https://www.yigeni.cc/wp-content/uploads/2019/12/20191127001-1.jpg" target="_blank" rel="noopener"><img src="https://www.yigeni.cc/wp-content/uploads/2019/12/20191127001-1.jpg" alt="v2节点推荐" width="100%" height="auto"></a>
+<img src="https://www.yigeni.cc/wp-content/uploads/2019/12/20191127001-1.jpg" alt="v2节点推荐" width="100%" height="auto"></img>
 
 ☑ 延时测试视频：
 <video src="/wp-content/uploads/2019/11/lanan-v2-20191127.mp4" preload="auto" controls="controls" width="100%" height="100%"></video>
