@@ -12,14 +12,14 @@
 8、无论电信/联通/移动速度都超级快。<span style="color: #0000ff;">正常youtube 8K视频观看速度在75000+Kbps以上</span>(具体还得看自己本地宽带质量！很多人的宽带wifi不纯净，还赶不上手机4G网络。使用拨打10000/10010/10086号报装的网络一般是纯净的，那些私人或第三方很多是不纯净宽带)；</br>
 9、<span style="color: #ff0000;">最好用的游戏加速器，骨灰级别超低延时，平均延时20ms左右；</span>
 
-<span style="color: #00ff00;">###缺点###</span></br>
-1、高大上节点，适合大佬使用，普通群众请远离，哈哈！目前使用发现，除了<span style="color: #ff0000;">小贵/流量少</span>之外没有发现其它任何缺点，流量使用完毕之后，可以重置流量(大概0.6元/G)，也可以升级套餐；</br>
+<b>###缺点###</b></br>
+1、高大上节点，适合大佬使用，普通群众请远离，哈哈！目前使用发现，除了小贵之外没有发现其它任何缺点；</br>
 2、官方很牛b，号称从来没被墙，所以所有订单一律不支持退款！实际使用确实很牛b，怪不得很霸道；</br>
 
 OK！下面开始本篇教程！总共分为两个步骤，全程5分钟！这里附上8K Youtube速度测试图和延时测试视频。测试条件：广州100M移动宽带，如果是电信/联通速度会更快，延时会更低！
 
 ☑ 8K Youtube速度测试图：
-<a href="/wp-content/uploads/2019/12/20191127001-1.jpg" target="_blank" rel="noopener"><img src="/wp-content/uploads/2019/12/20191127001-1.jpg" alt="v2节点推荐" width="100%" height="auto"></a>
+<a href="https://www.yigeni.cc/wp-content/uploads/2019/12/20191127001-1.jpg" target="_blank" rel="noopener"><img src="https://www.yigeni.cc/wp-content/uploads/2019/12/20191127001-1.jpg" alt="v2节点推荐" width="100%" height="auto"></a>
 
 ☑ 延时测试视频：
 <video src="/wp-content/uploads/2019/11/lanan-v2-20191127.mp4" preload="auto" controls="controls" width="100%" height="100%"></video>
