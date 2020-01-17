@@ -22,7 +22,7 @@ OK！下面开始本篇教程！总共分为两个步骤，全程5分钟！这�
 <img src="https://www.yigeni.cc/wp-content/uploads/2019/12/20191127001-1.jpg" alt="v2节点推荐" width="100%" height="auto"></img>
 
 ☑ 延时测试视频：
-<video src="/wp-content/uploads/2019/11/lanan-v2-20191127.mp4" preload="auto" controls="controls" width="100%" height="100%"></video>
+<video src="https://www.yigeni.cc/wp-content/uploads/2019/11/lanan-v2-20191127.mp4" preload="auto" controls="controls" width="100%" height="100%"></video>
 
 <span style="color: #ff00ff;">1、购买独家V2节点服务</span>
 a.使用“<span style="color: #ff0000;">浏览器</span>”打开链接(<a title="" href="/recommends/v2/" target="_blank">https://www.yigeni.cc/recommends/v2/</a>)按如下图操作
